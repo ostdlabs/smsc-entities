@@ -4,7 +4,7 @@
 
     <groupId>com.ostdlabs.smsc</groupId>
     <artifactId>smsc_entities</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <properties>
         <cxf.version>3.0.1</cxf.version>
